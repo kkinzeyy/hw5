@@ -1,0 +1,23 @@
+body {
+    background-color: gray;
+    text-align: center;
+    background-image: url("https://i.pinimg.com/originals/0a/63/0b/0a630be2b073f47d06a784ab085d46b1.jpg")
+}
+#trivia {
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    display: block;
+    background: gray;
+    border-radius: 10px;
+    padding: 50px;
+
+}
+button{
+    float: center;
+    height: 2in;
+    width: 3in;
+    border-radius: 5px;
+    padding: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
